@@ -3,6 +3,7 @@ title: 翻譯案語
 date: 2026-04-15 00:00 +0800
 categories: [謾記, 小札]
 layout: post
+toc: true
 ---
 
 
