@@ -1,7 +1,7 @@
 ---
 title: 標點符號
 date: 2026-06-06 00:00 +0800
-categories: [臆記, 學術東西]
+categories: [臆記]
 tags: [學術東西]
 layout: post
 ---
