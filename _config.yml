@@ -1,7 +1,7 @@
 remote_theme: knhash/jekyllBear
 title: 鵝庵筆記
 description: 一些讀書筆記。
-author: 鵝庵筆記
+author: 鵝庵
 plugins:
   - jekyll-remote-theme
   - jekyll-redirect-from
@@ -51,7 +51,7 @@ exclude:
 exclude: [vendor]
 
 Blog: /blog
-Life: /life
+About: /about
 
 # Add general links to site pages here
 links:
