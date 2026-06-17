@@ -51,10 +51,10 @@ exclude:
 exclude: [vendor]
 
 Blog: /blog
-About: /about
 
 # Add general links to site pages here
 links:
+ About: /about
   # Resume: /assets/resume.pdf
   
 
