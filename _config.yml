@@ -54,8 +54,8 @@ Blog: /blog
 
 # Add general links to site pages here
 links:
-   About: /about
-    Copyright: /copyright
+  About: /about
+  Copyright: /copyright
   # Resume: /assets/resume.pdf
   
 
