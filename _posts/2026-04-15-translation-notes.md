@@ -1,9 +1,8 @@
 ---
 title: 翻譯案語
-date: 2026-04-15 00:00 +0800
-categories: [謾記, 小札]
+date: 2026-04-15
+tags: [論著雜議]
 layout: post
-toc: true
 ---
 
 
